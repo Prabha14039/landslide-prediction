@@ -1,0 +1,584 @@
+"Annexture-II"
+"","B","C","D","E","F","G","H","I","J","K","L","U","V","W","X","Y","Z","AA","AB","AC","AD","AE","AF","AG","AH","AI","AJ","AK","AL","AM","AN","AO","AP","AQ","AR","AS","AT","AU"
+"","Location","Topo_No
+_","Locality","Road","Lat","Long","Gem_Pro
+ces","Geom","Rock","Weatheri
+ng","Rock_Ch
+ara","SFM","Regolith","Lulc","Hydro","Erosion","Susc","Risk_asse
+s","LSLenght","LSWidth","LSHeight","LSRun","LSMat","LSlideMo
+vem","LSFailure","LSActiv","LSDistrib
+u","LSStyle","LSMechn
+a","LSIntiat","LSReact1","LSReact2","Upslope","Dwnslop
+e","LSTriger","LSCaslty","LSCause","LSReMeas"
+"1","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","",""
+"2","L2","62 B/12","Malpa","Pangla-
+Malpa","30.00566
+9°","80.74362
+3°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartzite","Moderat
+e","Moderat
+e","Slope
+wash","0 to 1m","Extensive
+cut slope","Dry","Toe
+erosion","High","High","124","60","60","110","Rock","Slide","Shallow
+rotational","Active","Widening","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Rainfall,
+Steep
+slope","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall along
+affected zone, roof shade to
+avoide shooting stone"
+"3","L3","62 B/12","Bindakoti","Pangla-
+Malpa","30.00139
+9°","80.73043
+6°","Gravitati
+onal","Highly
+dissected
+hill slope","Biotite
+gneiss","High","High","Colluvium","1 to 2 m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","77","70","40","120","Debris","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall along
+affected zone, roof shade to
+avoide shooting stone"
+"4","L4","62 B/12","Bindakoti","Pangla-
+Malpa","30.00154
+1°","80.72855
+9°","Gravitati
+onal","Highly
+dissected
+hill slope","Biotite
+gneiss","High","High","Colluvium","1 to 2 m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","80","100","60","80","Debris","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall,
+thick","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall along
+affected zone, roof shade to
+avoide shooting stone"
+"5","L5","62 B/12","Garba","Pangla-
+Malpa","30.00181
+2°","80.72380
+0°","Gravitati
+onal","Highly
+dissected
+hill slope","Biotite
+gneiss","High","High","Slope
+wash","1 to 2 m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","60","60","35","80","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Rovoeardburd
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall along
+affected zone, roof shade to
+avoide shooting stone"
+"6","L6","62 B/12","Jipti","Pangla-
+Malpa","30.00650
+8°","80.71808
+2°","Gravitati
+onal","Highly
+dissected
+hill slope","Biotite
+gneiss","High","High","Colluvium","1 to 2 m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","26","100","20","500","Debris","Flow","Deep
+rotational","Active","Retrogres
+sive","Single","Deep
+rotational","2018","","","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall along
+affected zone, Line dranage"
+"7","L7","62 B/12","Tankul","Pangla-
+Malpa","30.00161
+3°","80.71886
+4°","Gravitati
+onal","Denudati
+onal hill
+slope","Biotite
+gneiss","Moderat
+e","High","Colluvium","2 to 5m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","230","104","150","100","Debris","Slide","Deep
+rotational","Active","Retrogres
+sive","Single","Deep
+rotational","2014","2017","2019","Denudati
+onal hill
+slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall along
+affected zone, slope
+modification"
+"8","L9","62 C/9","Mangti","Dahrchul
+a-Mangti","29.99041
+2°","80.70773
+6°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartzite","Moderat
+e","High","Slope
+wash","0 to 1m","Extensive
+cut slope","Dry","","High","High","62","100","40","110","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone."
+"9","L10","62 C/9","Pangla","Dahrchul
+a-Mangti","29.98032
+7°","80.69322
+6°","Gravitati
+onal","Highly
+dissected
+hill slope","Schist","Moderat
+e","High","Slope
+wash","0 to 1m","Extensive
+cut slope","Dry","","High","High","90","75","50","20","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone."
+"10","L11","62 C/9","Pangla","Dahrchul
+a-Mangti","29.97413
+7°","80.68812
+6°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartzite","Moderat
+e","High","Colluvium","1 to 2 m","Extensive
+cut slope","Dry","","High","High","75","80","40","120","Debris","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone."
+"11","L12","62 C/9","Pangla","Dahrchul
+a-Mangti","29.97255
+2°","80.68632
+3°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartzite","Moderat
+e","High","Colluvium","1 to 2 m","Extensive
+cut slope","Dry","","High","High","90","60","50","150","Debris","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone."
+"12","L13","62 C/9","Pangla","Dahrchul
+a-Mangti","29.96801
+3°","80.68214
+3°","Gravitati
+onal","Highly
+dissected
+hill slope","Schist","Moderat
+e","High","Slope
+wash","0 to 1m","Extensive
+cut slope","Dry","Rill
+erosion","High","High","124","100","80","150","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2018","2019","","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone, line drainage."
+"13","L14","62 C/9","Forest","Dahrchul
+a-Mangti","29.96111
+3°","80.61273
+4°","Gravitati
+onal","Highly
+dissected
+hill slope","Gneiss","Moderat
+e","High","Slope
+wash","0 to 1m","Extensive
+cut slope","Dry","Rill
+erosion","High","High","250","70","230","50","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2004","2014","2019","Highly
+dissected
+hill slope","River","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone, trailing wall along river,
+line drainage."
+"14","L15","62 C/9","Narayan
+ashram","Tawa
+Ghat-
+Narayan
+ashram","29.97361
+2°","80.65308
+9°","Gravitati
+onal","Moderat
+ely
+dissected
+hill slope","Quartz
+mica
+schist","High","High","Colluvium","1 to 2 m","Extensive
+cut slope","Dry","","Medium","Moderat
+e","15","60","10","10","Debris","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2018","2019","","Moderat
+ely
+dissected
+hill slope","Moderat
+ely
+dissected
+hill slope","Road
+cutting,
+rainfall","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone, line drainage."
+"15","L16","62 C/9","Sosa","Tawa
+Ghat-
+Narayan
+ashram","29.97702
+0°","80.64761
+9°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartz
+mica
+schist","High","High","Slope
+wash","0 to 1m","Barren","Dry","Rill
+erosion","High","High","45","60","35","35","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2018","2019","","Highly
+dissected
+hill slope","Highly
+dissected
+hill slope","Road
+cutting,
+Steep
+slope,","Road
+blockade","Nala debris
+accumulation on
+road, rainfall over
+steep slope","Concrete retaining wall with
+weep holes along affected
+zone, line drainage."
+"16","L17","62 C/9","Sosa","Tawa
+Ghat-
+Narayan
+ashram","29.98343
+5°","80.63264
+9°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartz
+mica
+schist","High","High","Slope
+wash","0 to 1m","Barren","Dry","Rill
+erosion","High","High","60","55","35","10","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2019","","","Highly
+dissected
+hill slope","Highly
+dissected
+hill slope","Rraoinadfall
+cutting,
+Steep
+slope,","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone, line drainage."
+"17","L18","62 C/9","Pangu","Tawa
+Ghat-
+Narayan
+ashram","29.97750
+3°","80.61433
+3°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartz
+mica
+schist","High","High","Slope
+wash","0 to 1m","Barren","Dry","Rill
+erosion","High","High","32","55","28","180","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2019","","","Highly
+dissected
+hill slope","Highly
+dissected
+hill slope","Rraoinadfall
+cutting,
+Steep
+slope,","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone, line drainage."
+"18","L19","62 C/9","Forest","Tawa
+Ghat-
+Narayan
+ashram","29.98487
+2°","80.57997
+6°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartz
+mica
+schist","High","High","Slope
+wash","0 to 1m","Barren","Dry","Rill
+erosion","High","High","45","60","40","120","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2019","","","Highly
+dissected
+hill slope","Highly
+dissected
+hill slope","Rraoinadfall
+cutting,
+Steep
+slope,","Road
+blockade","Road widening
+activity without
+proper protection
+measures, rainfall","Concrete retaining wall with
+weep holes along affected
+zone, line drainage."
+"19","L21","62 B/12","Kanchuti","Tawa
+Ghat-
+Narayan
+ashram","30.01305
+4°","80.56750
+9°","Gravitati
+onal","Highly
+dissected
+hill slope","Quartz
+mica
+schist","High","High","Slope
+wash","0 to 1m","Barren","Dry","Rill
+erosion","High","High","90","100","70","45","Rock","Slide","Shallow
+rotational","Active","Retrogres
+sive","Single","Shallow
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Rraoinadfall
+cutting,
+Toe
+erosion","Road
+blockade
+and
+collpased","Road widening
+activity without
+proper protection
+measures, Toe","Concrete retaining wall with
+weep holes along affected
+zone, Slope modification,
+trailing wall along river, line"
+"20","L22","62 B/12","Khet","Tawa
+Ghat-
+Narayan
+ashram","30.00727
+4°","80.56572
+0°","Gravitati
+onal","Highly
+dissected
+hill slope","Gneiss","High","High","Colluvium","2 to 5m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","70","130","50","70","Debris","Slide","Deep
+rotational","Active","Retrogres
+sive","Single","Deep
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","TbhyiRckiver
+loose
+overburd
+ern,","Road
+blockade
+and
+collpased","RerooasdiownidbeynRinivger,
+activity without
+proper protection
+measures, Toe","Cdroanincraegtee.retaining wall with
+weep holes along affected
+zone, Slope modification,
+trailing wall along river, line"
+"21","L23","62 B/12","Khet","Tawa
+Ghat-
+Narayan
+ashram","30.00472
+7°","80.56461
+5°","Gravitati
+onal","Highly
+dissected
+hill slope","Gneiss","High","High","Colluvium","2 to 5m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","80","170","60","20","Debris","Slide","Deep
+rotational","Active","Retrogres
+sive","Single","Deep
+rotational","2014","2017","2019","Highly
+dissected
+hill slope","River","Trahiincfkall
+loose
+overburd
+ern,","Road
+blockade
+and
+collpased","RerooasdiownidbeynRinivger,
+activity without
+proper protection
+measures, Toe","Cdroanincraegtee.retaining wall with
+weep holes along affected
+zone, Slope modification,
+trailing wall along river, line"
+"22","L24","62 B/12","Khet","Tawa
+Ghat-
+Narayan
+ashram","30.00074
+2°","80.56582
+6°","Gravitati
+onal","Highly
+dissected
+hill slope","Gneiss","High","High","Colluvium","2 to 5m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","100","290","75","280","Debris","Slide","Deep
+rotational","Active","Retrogres
+sive","Single","Deep
+rotational","2004","2017","2019","Denudati
+onal hill
+slope","River","Trahiincfkall
+loose
+overburd
+ern,","Road
+blockade
+and
+collpased","RerooasdiownidbeynRinivger,
+activity without
+proper protection
+measures, Toe","Cdroanincraegtee.retaining wall with
+weep holes along affected
+zone, Slope modification,
+trailing wall along river, line"
+"23","L25","62 C/9","Khet","Tawa
+Ghat-
+Narayan
+ashram","29.99778
+9°","80.56592
+1°","Gravitati
+onal","Highly
+dissected
+hill slope","Gneiss","High","High","Colluvium","2 to 5m","Extensive
+cut slope","Damp","Rill
+erosion","High","High","140","140","100","20","Debris","Slide","Deep
+rotational","Active","Retrogres
+sive","Single","Deep
+rotational","2004","2017","2019","Denudati
+onal hill
+slope","River","Trahiincfkall
+loose
+overburd
+ern,","Road
+blockade
+and
+collpased","RerooasdiownidbeynRinivger,
+activity without
+proper protection
+measures, Toe","Cdroanincraegtee.rReetlaoincaintigownaolflKwhiteht
+weep holes along affected
+zone, Slope modification,
+trailing wall along river, line"
+"","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","","rainfall","","erosion by River,","drainage."

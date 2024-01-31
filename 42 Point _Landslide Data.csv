@@ -1,0 +1,722 @@
+SLIDE_NO,STATE,DISTRICT,TOPOSHEET,SLIDE_NAME,"NH_SH 
+LOCATION",LATITUDE,LONGITUDE,LENGTH,WIDTH,HEIGHT,LS_AREA,DEPTH,"LANDSLIDE ALERT
+ CATEGORY",VOLUME,"RUN_OUT_
+DISTANCE","MATERIAL 
+TYPE","MOVEMENT 
+TYPE","MOVEMENT 
+RATE",ACTIVITY,DISTRIBUTION,STYLE,"FAILURE 
+PLANE","FAILURE 
+MECHANISM","INITIATION 
+YEAR","REACTIVATION 
+YEAR1","REACTIVATION 
+YEAR2","REACTIVATION 
+YEAR3",GEOMORPHOLOGY,GEOLOGY,STRUCTURE,"LANDUSE 
+LANDCOVER",HYDROLOGICAL,"TRIGGERING 
+FACTOR","PERSONS 
+DEATH","PEOPLE 
+AFFECTED","LIVESTOCK 
+AFFECTED","COMMUNICATION 
+AFFECTED","INFRASTRUCTURE 
+AFFECTED","LANDUSE 
+LANDCOVER 
+AFFECTED",GEOSCIENTIFIC_CAUSES,"PRE-REMEDIAL 
+MEASURES",REMARKS,Citation,REPORT,PHOTOS,ABSTRACT,,,
+HP/CHA/52D3/2019/59,Himachal Pradesh,Chamba,52D03,Bhaler,Bhaler,32.26212,76.22388,60.00,40.00,50.00,,0-1m,III,,5.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Mudstone,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Toe erosion by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/120,Himachal Pradesh,Chamba,43P15,Kalidhar ,Kalidhar ,32.41571,75.99114,16.00,20.00,15.00,,0-1m,III,,100.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,2017.00,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Road cutting and rainfall,Nill,,,partly road damaged,,,"Weathered rock  exposed on road cut, unscientific road cut, lack of toe support","Easing of slope, Proper drainage for water discharge to the stream flowing downslope, Toe support and foundation of appropriate design",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/122,Himachal Pradesh,Chamba,43P15,Kalidhar ,Kalidhar ,32.41450,75.98990,20.00,12.00,18.00,,0-1m,III,,25.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Road cutting and rainfall,Nill,,,partly road damaged,,,"Weathered rock  exposed on road cut, unscientific road cut, lack of toe support","Easing of slope, , Toe support and foundation of appropriate design",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/138,Himachal Pradesh,Chamba,43P15,Barrian,Barrian Nala,32.42824,75.95758,40.00,20.00,35.00,,0-1m,III,,10.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Mudstone with conglomerate,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Toe erosion by nala,Easing of slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/139,Himachal Pradesh,Chamba,43P15,Barrian,Near Barrian nala,32.42363,75.96903,90.00,25.00,80.00,,2-5m,III,,45.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Deep planar failure,,,,,Moderately Dissected,Mudstone with conglomerate,,Moderately vegetated,Damp,Incessant rainfall,Nill,,,,,,Toe erosion by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/196,Himachal Pradesh,Kangra,43P15,Suliali,near Suliali village,32.38994,75.88767,15.00,10.00,12.00,,0-0.5m,III,,4.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,2017.00,,,,Terrace,Alluvium,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,"Loose material on the slope.
+Road cutting.",Easing of slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/179,Himachal Pradesh,Kangra,43P16,Bhatoli,Near Bhatoli,32.14401,75.87798,10.00,7.00,8.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2016.00,,,,Moderately Dissected,conglomerate with mudstone,,Densely vegetated,Dry,Road Cutting,Nill,,,,,,Unscientific Road cut,Benching of slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/82,Himachal Pradesh,Chamba,43P15,Kakira,Kakira,32.44726,75.93976,25.00,15.00,20.00,,0-1m,III,,4.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Sandstone with mudstone,,Sparsely vegetated,Wet,Rainfall,Nill,,,part of road damaged,,,"Loose debris saturation by rainfalll,debris exposed in road cut",Removal of loose material from slope,proper toe support required,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/66,Himachal Pradesh,Chamba,52D03,Lahariri,Lahariri,32.28389,76.22333,120.00,55.00,100.00,,>5m,III,,200.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,Deep seated,Deep planar failure,2015.00,,,,Moderately Dissected,Red colored Mudstone and sandstone,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Toe cutting by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/67,Himachal Pradesh,Chamba,52D03,,Ghatarla village,32.29500,76.16361,250.00,240.00,200.00,,2-3m,II,,450.00,Rock and Debris,Slide,Rapid,Reactivated,Enlarging,Complex,shallow,Shallow planar failure,2016.00,,,,Moderately Dissected,Sandstone shale and mudstone,,Sparsely vegetated,Dry,Sudden Toe Removal,Nill,,,,,Cultivated land on slope damaged,"Toe cutting by nala
+Weathered rock exposed on steep slope",Benching of slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/69,Himachal Pradesh,Chamba,52D03,,Ghatarla village,32.28460,76.17611,80.00,40.00,70.00,,0-1m,III,,260.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2016.00,,,,Moderately Dissected,Sandstone and Shale,,Densely vegetated,Damp,Sudden Toe Removal,Nill,,,,,,"Toe cutting by nala
+Weatherd rock exposed on steep slope",Slope easing and proper drainage alignment from crown portion,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D3/2019/70,Himachal Pradesh,Kangra,52D03,Boh,Boh,32.30089,76.19212,70.00,50.00,60.00,,0-1m,III,,5.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2014.00,,,,Moderately Dissected,Sandstone and Shale,,Moderately vegetated,Damp,Road Cutting,Nill,,,Part of road damaged,,,"Road cutting
+Differiential weathering",Retaining wall required with sufficient weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/98,Himachal Pradesh,Chamba,52D03,,Sahlu village,32.36634,76.01475,50.00,30.00,45.00,,2-5m,III,,130.00,Debris,Slide,Rapid,Active,Enlarging,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Mudstone,,Agriculture,Damp,Sudden Toe Removal,Nill,,,,,Cultivation on crown damaged,Toe erosion by nala,"proper toe support, Benching of slope",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/99,Himachal Pradesh,Chamba,52D03,,Godra village,32.37460,76.01878,110.00,40.00,100.00,,2-5m,III,,50.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Sparsely vegetated,Damp,Sudden Toe Removal,Nill,,,,,Agricultural land,"Toe erosion by nala
+Steep slope","Drainage diversion from crown portion, Slope easing",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/100,Himachal Pradesh,Chamba,52D03,,Kasba Raipur,32.38606,76.01388,55.00,24.00,50.00,,0-0.5m,III,,120.00,Rock and Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Sparsely vegetated,Damp,Sudden Toe Removal,Nill,,,,,,"Toe cutting by nala, loose material on steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/161,Himachal Pradesh,Chamba,43P15,,"Barala, Lahru road",32.40175,75.94762,40.00,30.00,35.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Road Cutting & Slope cut,Nill,,,Part of road block,,,Road cutting,Removal of loose material from affected slope.Retaining wall required with sufficient weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/107,Himachal Pradesh,Chamba,52D03,,Along Chakki river,32.39158,76.00162,25.00,13.00,20.00,,0-1m,III,,15.00,Rock,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,2013 monsoon,2018 monsoon,,,Moderately Dissected,Phyllite,,Sparsely vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Weathered rock exposed on slope,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/127,Himachal Pradesh,Chamba,43P15,Taragarh,Taragarh,32.42112,75.95502,10.00,8.00,8.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,mudstone with sandstone,,Sparsely vegetated,Damp,Rainfall,Nill,,,Part of road damaged,,,Road cutting,Retaining wall of suitable size and dimension required,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/128,Himachal Pradesh,Chamba,43P15,,Taragarh,32.42123,75.95518,8.00,10.00,7.00,,0-1m,III,,1.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,mudstone with sandstone,,Sparsely vegetated,Damp,Rainfall,Nill,,,,,,Road cutting,Retaining wall of suitable size and dimension required,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D3/2019/71,Himachal Pradesh,Kangra,52D03,,Near Boh Village,32.30550,76.17328,50.00,50.00,45.00,,0-0.5m,III,,130.00,Debris,Slide,Rapid,Reactivated,Confined,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,Phyllite,Jwalamukhi thrust passing nearby,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Road cutting
+Toe cutting by nala","proper toe support, Drainage alignment",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/129,Himachal Pradesh,Chamba,43P15,,Taragarh,32.42684,75.95252,40.00,28.00,35.00,,0-1m,III,,50.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,mudstone with sandstone,,Sparsely vegetated,Damp,Rainfall,Nill,,,,,,"Weathered rock  exposed on steep slope, road cut",Removal of loose exposed material from slope,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/130,Himachal Pradesh,Chamba,43P15,,Taragarh,32.42894,75.95307,20.00,10.00,18.00,,0-1m,III,,2.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,sandstone,,Sparsely vegetated,Damp,Rainfall,Nill,,,,,, road cutting,Retaining wall with sufficient weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/131,Himachal Pradesh,Chamba,43P15,,Taragarh,32.42919,75.95330,30.00,8.00,25.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Single,shallow in upslope and deep seated in down slope,Shallow planar failure,2018.00,,,,Lowly Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Weathered rock  exposed on slope, road cut",Retaining wall with sufficient weep holes,"Proper toe support as per site condition, removal of precarious boulders",,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/72,Himachal Pradesh,Chamba,52D03,,Pukhru Jangal,32.30281,76.15016,37.00,10.00,35.00,,2-3m,III,,40.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Slate,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Loose debris saturation by rainfall,Loose debris removal,"slope easing, Retaining wall of suitable size",,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/76,Himachal Pradesh,Chamba,52D03,,Pukhru Jangal,32.30138,76.14812,17.00,10.00,15.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Phyllite,,Sparsely vegetated,Damp,Road Cutting,Nill,,,,,,Extensive slope cut,Loose debris removal,Retaing wall as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/77,Himachal Pradesh,Chamba,52D03,,Pukhru Jangal,32.30077,76.14772,35.00,15.00,30.00,,0-1m,III,,6.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Lowly Dissected,Sandstone with mudstone,,Sparsely vegetated,Damp,Road Cutting,Nill,,,,,,Extensive slope cut,Loose debris removal,Proper toe support as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/79,Himachal Pradesh,Chamba,52D03,,Dulara,32.29263,76.14337,75.00,50.00,70.00,,>5m,III,,220.00,Soil,Slide,Rapid,Active,Widening,Multiple,shallow,Deep rotational failure,2015.00,,,,Lowly Dissected,Mudstone with sandstone,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Toe erosion by nala,,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/155,Himachal Pradesh,Chamba,43P15,, Chinian,32.40498,75.97357,70.00,30.00,60.00,,2-3m,III,,12.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Pebbly conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Loose conglomerate & mudstone got over saturated, Toe cutting by nala",,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/105,Himachal Pradesh,Chamba,52D03,,Near Sahlu village,32.38711,76.00022,36.00,10.00,30.00,,0-0.5m,III,,5.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Highly Dissected,Conglomerate and mudstone,,Densely vegetated,Damp,Road Cutting,Nill,,,Part of road damaged,,,"Loose debris saturation by rainfall, debris exposure on road cut","Proper toe support, removal of loose material",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/156,Himachal Pradesh,Chamba,43P15,,"Barala, Lahru road",32.40853,75.96380,30.00,15.00,25.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,pebbly conglomerate with mudstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,partially road affected,,,road cutting and incessant rainfall,Removal of loose material from steep  slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/157,Himachal Pradesh,Chamba,43P15,,"Barala, Lahru road",32.40729,75.95987,15.00,12.00,14.00,,0-0.5m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,conglomerate with mudstone,,Sparsely vegetated,Wet,Road Cutting,Nill,,,partially road affected,,,road cutting and incessant rainfall,Slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/158,Himachal Pradesh,Chamba,43P15,,"Barala, Lahru road",32.40676,75.96022,50.00,16.00,45.00,,0-0.5m,III,,10.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,pebbly conglomerate with mudstone,,Sparsely vegetated,Damp,Road Cutting,Nill,,,,,,Toe cutting by nala and incessant rainfall,Removal of loose material from slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/159,Himachal Pradesh,Chamba,43P15,,"Barala, Lahru road",32.40668,75.96115,75.00,45.00,70.00,,0-0.5m,III,,60.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,pebbly conglomerate with mudstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,Toe cutting by nala and incessant rainfall, Retaining wall of suitable size and dimension with sufficient weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/160,Himachal Pradesh,Chamba,43P15,,"Barala, Lahru road",32.40312,75.94831,70.00,20.00,60.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,conglomerate with mudstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,road cutting and incessant rainfall,Removal of loose material from slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/80,Himachal Pradesh,Chamba,43P15,,Bakloh Cant,32.46742,75.92883,9.00,7.00,5.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,Sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Incessant rainfall
+road cutting","Retaining wall of suitable size and dimension required with sufficient weep holes,Proper drainage alignement from crown portion",Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/182,Himachal Pradesh,Kangra,44M13,,Ban Bilwan,31.94717,75.93125,30.00,16.00,24.00,,0-1m,III,,7.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,Varigated mudstone with sandstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,Excess Rainfall and road cutting,"Proper drainage algnment,Removal of  weathered material from slope",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/81,Himachal Pradesh,Chamba,43P15,,Balera village,32.49936,75.94439,40.00,9.00,35.00,,0-0.5m,II,,42.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Phyllite,,Sparsely vegetated,Damp,Rainfall,Nill,,,,Crack developed at houses near crown portion,Cultivated land on hill top damaged,"Cutting of link road
+",Removal of debris material from the slope. Retaining wall of suitable size. Shifting of Settlement from near the crown portion,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/168,Himachal Pradesh,Kangra,44M13,Dhanuna,Dhanuna,31.99861,75.90064,9.00,10.00,7.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,Road cutting,Proper disposal of houshold water ,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D3/2019/263,Himachal Pradesh,Chamba,52D03,Rehal Ban Jangal,,32.28484,76.14434,100.00,50.00,90.00,,2-5m,III,,90.00,Rock cum debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,,,,,Lowly Dissected,Sandstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Toe erosion by deep nala, Weathered rock on steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/106,Himachal Pradesh,Chamba,43P15,,Sahlu village,32.38899,75.99771,20.00,12.00,15.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,Pebbly Conglomerate,,Moderately vegetated,Damp,Road Cutting & toe erosion by nala,Nill,,,Part of road blocked,,,"Loose boulder & weathered rock exposed on steep slope
+",Removal of loose boulder,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/175,Himachal Pradesh,Kangra,43P16,,Diothi,32.04391,75.83410,22.00,20.00,20.00,,0-0.5m,III,,2.00,Debris and Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,mudstone with sandstone,,Densely vegetated,Damp,Road Cutting,Nill,,,,,,"Road widening, Incessant rainfall","Easing of slope, proper lined drainage along road",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/176,Himachal Pradesh,Kangra,43P16,,Diothi,32.04429,75.83504,12.00,11.00,10.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone with sandstone,,Densely vegetated,Damp,Road Cutting,Nill,,,,,,"Road widening, Incessant rainfall","Easing of slope, proper lined drainage along road",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/121,Himachal Pradesh,Chamba,43P15,,Kalidhar ,32.41544,75.99082,11.00,8.00,10.00,,0-1m,III,,9.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe erosion by nala and road widening,Slope easing,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/123,Himachal Pradesh,Chamba,43P15,,Kalidhar ,32.41305,75.98851,50.00,15.00,45.00,,0-1m,III,,8.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe erosion by Chakki River and road widening,Slope easing,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/124,Himachal Pradesh,Chamba,43P15,Kalidhar ,Kalidhar ,32.41016,75.98443,38.00,30.00,30.00,,2-3m,III,,90.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe erosion by Chakki River and road widening,"Retaining wall of suitable size and dimension required with sufficient weep holes,Proper drainage alignement from crown portion",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/125,Himachal Pradesh,Chamba,43P15,,Lahru Chowk,32.40684,75.98150,18.00,16.00,15.00,,0-1m,III,,2.00,Soil,Slide,Rapid,Active,Enlarging,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Mudstone with Sandstone,,Moderately vegetated,Wet,Rainfall,Nill,,,,,,Road cutting,"easing of slope, proper lined drainage along road",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/132,Himachal Pradesh,Chamba,43P15,,Berian,32.43214,75.95754,35.00,30.00,30.00,,2-3m,II,,70.00,Rock cum debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2005.00,,,,Moderately Dissected,Sandstone and conglomerate ,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Road widening, Incessant rainfall","Retaining wall of suitable size and dimension required with sufficient weep holes,Proper drainage alignement from crown portion",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/140,Himachal Pradesh,Chamba,43P15,,Taragarh,32.42457,75.95860,50.00,24.00,40.00,,0-1m,III,,5.00,Rock cum debris,Slide,Rapid,Active,Enlarging,Single,shallow,Shallow planar failure,2005.00,,,,Moderately Dissected,Sandstone and conglomerate ,,Moderately vegetated,Wet,Rainfall,Nill,,,,,,Road cutting,"easing of slope, proper lined drainage along road",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/198,Himachal Pradesh,Kangra,43P15,,Maira village,32.33073,75.81846,18.00,11.00,15.00,,2-3m,II,,6.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Terrace,Alluvium,,Moderately vegetated,Wet,Link Road Cutting,Nill,,,,two kachcha houses totally damaged,,"Lack of proper drainage in the hill slope for water discharge, Domestic water flow from the affected slope.Link road cutting","Manual easing of slope at crown, filling of road and adjoining damaged zone wall with proper inclined weep holes.",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/95,Himachal Pradesh,Chamba,52D03,,Binna,32.35958,76.02120,35.00,30.00,30.00,,0-1m,III,,5.00,Rock cum debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Toe cutting by nala,
+Excess rainfall",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/103,Himachal Pradesh,Chamba,52D03,,Along Chakki river(Dauth),32.39127,76.00519,100.00,40.00,70.00,,0-0.5m,III,,90.00,Rock and Debris,Slide,Rapid,Reactivated,Retrogressive,Multiple,shallow,Shallow planar failure,2005.00,,,,Moderately Dissected,Phyllite,,Sparsely vegetated,Damp,Sudden Toe Removal,Nill,,,,,,"Toe cutting by nala,
+Excess rainfall",,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/202,Himachal Pradesh,Kangra,43P15,,Bol Thakran,32.25900,75.94494,16.00,15.00,12.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2005.00,,,,Lowly Dissected,mudstone with sandstone,,Moderately vegetated,Dripping,Rainfall,Nill,,,,,,"Oversaturation of the loose debris material, unscientific slope cut",,Proper toe support as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/3/2019/63,Himachal Pradesh,Kangra,52D03,,Kanol  village,32.28907,76.22665,90.00,60.00,80.00,,0-1m,II,,200.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Lowly Dissected,Sandstone/mudstone,,Sparsely vegetated,Damp,Sudden Toe Removal,Nill,,,Road damaged,,Agriculture land damaged,"Toe erosion by Khauli Khad,
+steep slope","Drainage diversion from crown portion, Slope easing..Proper toe support",Part of Road wash away from crown portion. Shifting of settlement from nearby crown portion,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/84,Himachal Pradesh,Chamba,43P15,,Kakira,32.45384,75.93111,37.00,16.00,30.00,,0-1m,III,,40.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Lowly Dissected,Sandstone and conglomerate ,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Toe erosion by nala
+Weak lithology","Proper drainage algnment, Deep root plantation",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D3/2019/62,Himachal Pradesh,Kangra,52D03,,Kahkarra,32.27886,76.23810,120.00,65.00,100.00,,2-3m,III,,280.00,Rock and Debris,Slide,Rapid,Reactivated,Retrogressive,Multiple,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Sandstone/mudstone,,Sparsely vegetated,Damp,Rainfall,Nill,,,,,,"Oversaturation of mudstone and debris material, Toe erosion by nala","Diversion of water from crown portion, stoppage of cultivation  near crown portion. Shifting of settlement nearby crown portion",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/184,Himachal Pradesh,Kangra,44M13,,Ban Bilwan,31.94903,75.93332,50.00,20.00,40.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,sandstone with varigated mudstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,Part of road block,,,Road cutting and incessant rainfall,Retaining wall of suitable size,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/162,Himachal Pradesh,Chamba,43P15,,Baduni,32.40132,75.94828,35.00,30.00,30.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,2018.00,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,Part of road damaged,,,Road cutting and incessant rainfall,Removal of Weathered material from slope,"Manual easing of slope at crown, filling of road and adjoining damaged zone wall with proper inclined weep holes.",,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/163,Himachal Pradesh,Kangra,43P15,,Baduni,32.40026,75.94721,64.00,22.00,60.00,,0-1m,III,,8.00,Debris,Slide,Rapid,Stabilized,Confined,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,Road cutting and incessant rainfall,Deep root plantation,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/164,Himachal Pradesh,Kangra,43P15,,Baduni,32.39260,75.94515,215.00,70.00,55.00,,0-1m,II,,200.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,2018.00,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,"Toe cutting by nala, loose material on slope and steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/165,Himachal Pradesh,Kangra,43P15,,Baduni,32.39508,75.94388,70.00,24.00,60.00,,0-1m,III,,20.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone intercalated with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting and incessant rainfall,Slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/166,Himachal Pradesh,Kangra,43P15,,Baduni,32.39405,75.93790,64.00,55.00,60.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,red coloured mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,partly road damaged,due to slide earlier temple was completely demaged,,Road cutting and incessant rainfall,Retaining wall of suitable size along the road and toe,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/170,Himachal Pradesh,Kangra,43P16,,Diothi,32.05412,75.82600,8.00,7.00,5.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone and sandstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,Link Road cutting,Proper drainage alignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/171,Himachal Pradesh,Kangra,43P16,,Diothi,32.05375,75.82631,9.00,10.00,6.00,,0-0.5m,III,,1.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,mudstone and sandstone in equal ratio,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting and incessant rainfall,Slope easing,Proper toe support & drainage,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/173,Himachal Pradesh,Kangra,44M13,,Amroh,31.87639,75.95355,8.00,5.00,7.00,,0-0.5m,III,,3.00,Rock and Debris,Slide,Rapid,Active,Confined,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandtone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Incessant rainfall,Retaining wall of suitable size along the road,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/174,Himachal Pradesh,Kangra,44M13,,Amroh,31.86306,75.96543,7.00,10.00,5.00,,0-1m,III,,5.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,sandstone with mudstone,,Densely vegetated,Dry,Rainfall,Nill,,,,,,Toe erosion by Seon river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/110,Himachal Pradesh,Chamba,43P15,,Sahlu village,32.39388,75.99241,50.00,22.00,40.00,,0-1m,III,,8.00,Rock,Slide,Rapid,Active,Enlarging,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,sandstone with mudstone,"SO- 310/45->40, J1 II SO",Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Lack of toe support, Toe erosion by nala",,Weathered sandstone exposed near road,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/111,Himachal Pradesh,Chamba,43P15,,Sahlu village,32.39473,75.99259,40.00,13.00,30.00,,2-3m,III,,2.00,Rock and Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Weathered rock  exposed on road cut, unscientific road cut, lack of toe support",Slope easing. Retaining wall with sufficient inclined weep holes,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/510,Himachal Pradesh,Chamba,43P15,,Sahlu village,32.39619,75.98962,48.00,25.00,40.00,,0-1m,III,,70.00,Rock and Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Weathered rock  exposed on road cut, unscientific road cut, lack of toe support",Slope easing. Retaining wall with sufficient inclined weep holes at road level,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/115,Himachal Pradesh,Chamba,43P15,,Lahru,32.40441,75.97986,11.00,8.00,10.00,,0-1m,III,,1.00,Alluvium,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Terrace,Mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe erosion by River,Proper Toe support is urgently required because Road and settlement at crown portion may affect during rainy season,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/113,Himachal Pradesh,Chamba,43P15,,Parchor,32.40158,75.99188,80.00,30.00,75.00,,0-1m,III,,100.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe erosion by River,,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/114,Himachal Pradesh,Chamba,43P15,,Sahlu village,32.39851,75.98993,65.00,35.00,40.00,,0-0.5m,III,,30.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,Part of road affected,,,Loose debris saturation by rainfall,Slope easing,Culvert is required,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/169,Himachal Pradesh,Kangra,43P16,,Diothi,32.05469,75.82573,8.00,6.00,5.00,,0-1m,III,,1.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,equal amount of mudstone and sandstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Loose debris saturation by rainfall,"Slope easing, Proper drainage diversion from affected slope",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/119,Himachal Pradesh,Chamba,43P15,,Jatroon,32.41650,75.99015,45.00,20.00,40.00,,0-1m,III,,90.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting through Weathered rock mass. Toe cutting by River,Removal of debris material from the slope. Retaining wall of suitable size and dimension.,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/68,Himachal Pradesh,Chamba,52D03,,Ghatarla village,32.28944,76.17972,100.00,70.00,90.00,,>5m,II,,150.00,Debris and Rock,Slide,Moderate,Active,Retrogressive,Multiple,Deep seated,Deep planar failure,2018 August,,,,Highly Dissected,Sandstone mudstone intercalated," JI 70/30->340, J2 130/50->220, J3  220/76->310",Moderately vegetated,Damp,Rainfall,Nill,,,,,,"River toe cutting,
+incessant rainfall","Slope easing, Proper drainage diversion from affected slope. Shifting of settlement frm crown portion.",Proper toe support.,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/133,Himachal Pradesh,Chamba,43P15,,Berrian,32.43247,75.95514,35.00,30.00,30.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Sandstone mudstone intercalated,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Loose debris saturation by rainfall,Retaining wall of suitable size and dimension,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/126,Himachal Pradesh,Chamba,43P15,,Taragarh,32.41763,75.95349,66.00,33.00,50.00,,0-1m,III,,35.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Sandstone mudstone intercalated,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Loose debris saturation by rainfall,Removal of debris material from the slope,Culvert is required at road ,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/135,Himachal Pradesh,Chamba,43P15,,Berrian,32.42564,75.96472,18.00,12.00,15.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Sandstone mudstone intercalated,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Unscientific road cutting. Incessant rainfall,Retaining wall with sufficient weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/145,Himachal Pradesh,Chamba,43P15,,Berrian,32.42569,75.96179,80.00,50.00,70.00,,2-3m,III,,100.00,Rock cum debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,Sandstone mudstone and conglomerate,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Toe erosin by nala
+",slope benching. Proper drainage alignment from road level. ,Proper toe support as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/143,Himachal Pradesh,Chamba,43P15,,Berrian,32.42165,75.96114,25.00,15.00,20.00,,0-1m,III,,10.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2000.00,,,,Moderately Dissected,Sandstone mudstone and conglomerate,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting,Retaining wall of suitable size and dimension with sufficient weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/144,Himachal Pradesh,Chamba,43P15,,Berrian,32.42387,75.96027,28.00,17.00,25.00,,2-3m,III,,15.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Sandstone mudstone and conglomerate,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,"Toe erosin by nala
+",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/146,Himachal Pradesh,Chamba,43P15,,Berrian,32.41993,75.96484,70.00,40.00,60.00,,2-5m,III,,40.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2005.00,,,,Moderately Dissected,Sandstone mudstone and conglomerate,,Moderately vegetated,Wet,Rainfall,Nill,,,,,,Toe cutting by River,"Retaining wall at road level, Mitigation of river erosion",Cultivation should be stop at near portion,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/147,Himachal Pradesh,Chamba,43P15,,Berrian,32.42434,75.96484,11.00,20.00,10.00,,0-1m,III,,130.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2012.00,,,,Moderately Dissected,Sandstone mudstone and conglomerate,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/75,Himachal Pradesh,Chamba,52D03,,Bhiora Saini,32.28208,76.15203,98.00,57.00,90.00,,2-5m,III,,160.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,2005.00,,,,Lowly Dissected,Sandstone mudstone,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,"Toe erosin by nala
+",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/101,Himachal Pradesh,Chamba,52D03,,Sahlu village,32.38544,76.01067,40.00,20.00,35.00,,1-2m,III,,40.00,Debris,Slide,Moderate,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,2000.00,,,,Moderately Dissected,Phyllite,,Sparsely vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/197,Himachal Pradesh,Kangra,43P15,,Sahhera,32.30667,75.88824,45.00,20.00,40.00,,0-1m,III,,5.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2005.00,,,,Moderately Dissected,hard compact sandstone with mudstone,,Moderately vegetated,Dripping,Rainfall,Nill,,,,,,"Road cutting, Incessant rainfall",Retaining wall at road level with Culvert,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/93,Himachal Pradesh,Chamba,52D03,,Sahlu village,32.35751,76.02365,16.00,10.00,15.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2005.00,,,,Lowly Dissected,Phyllite and mudstone,,Sparsely vegetated,Wet,Sudden Toe Removal,Nill,,,,,,Toe cutting by River,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/94,Himachal Pradesh,Chamba,52D03,,Sahlu village,32.35944,76.02259,30.00,15.00,25.00,,0-0.5m,III,,1.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Phyllite,,Moderately vegetated,Wet,Sudden Toe Removal,Nill,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/199,Himachal Pradesh,Kangra,43P15,,Maira village,32.33937,75.82582,30.00,31.00,20.00,,0-1m,III,,5.00,Debris,Slide,Extremely Slow,Suspended,Diminishing,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Dry,Rainfall,Nill,,,,,,"Road cutting, Incessant rainfall","Proper drainage diversion from affected area,Retaining wall with sufficient weep holes",Proper toe support o as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/200,Himachal Pradesh,Kangra,43P12,,Indpur,32.15669,75.73625,12.00,13.00,10.00,,0-0.5m,III,,1.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Pebbly conglomerate with lenses of sandstone,,Moderately vegetated,Dry,Rainfall,Nill,,,Part of road damaged,,,Road cutting,Proper drainage alignment along the road,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/201,Himachal Pradesh,Kangra,43P15,,Sahni,32.28726,75.92084,10.00,8.00,6.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Widening of road,Slope easing,Proper toe support as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/203,Himachal Pradesh,Kangra,43P15,Kalera,Kalera,32.25954,75.94435,47.00,40.00,40.00,,0-0.5m,III,,30.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2000.00,,,,Lowly Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/204,Himachal Pradesh,Kangra,43P16,,chachchiya,32.22320,75.97113,8.00,7.00,6.00,,0-0.5m,III,,1.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting,Proper drainage diversion from affected area.Slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/205,Himachal Pradesh,Kangra,43P16,,Panola village,32.22990,75.95884,10.00,9.00,9.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting,Removal of debris from slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/206,Himachal Pradesh,Kangra,43P15,,Kulhan village,32.27679,75.90002,20.00,40.00,15.00,,0-0.5m,III,,2.00,Debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,pebbly sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,Road blocked,Building,,incessant rainfall and road cutting,Proper retaining wall with sufficient weep holes,One building above crown portion is in danger,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/207,Himachal Pradesh,Kangra,43P15,,Nurpur,32.29797,75.89252,45.00,35.00,40.00,,0-0.5m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"loose material on the slope
+Road cutting","Removal of loose material from slope,Proper toe support",Down slope settlement may slightly get damage during incessant rainfall,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/208,Himachal Pradesh,Kangra,43P16,,Badukhar,32.05690,75.82148,60.00,48.00,50.00,,2m,III,,8.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2000.00,,,,Moderately Dissected,sandstone with equal amount of varigated mudstone,,Moderately vegetated,Dry,Rainfall,Nill,,,,,,Weathered rock on Steep slope,"Drainage diversion from crown portion, Slope easing",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/209,Himachal Pradesh,Kangra,43P16,,Badukhar,32.05609,75.82217,30.00,22.00,15.00,,0-0.5m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Road cutting ,incessant rainfall","Drainage diversion from crown portion, Slope easing",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/210,Himachal Pradesh,Kangra,43P16,,Badukhar,32.05554,75.82227,30.00,25.00,25.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Weathered rock on Steep slope,Slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/211,Himachal Pradesh,Kangra,43P16,,Badukhar,32.05451,75.82315,30.00,15.00,25.00,,0-0.5m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with varigated mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Weathered rock on Steep slope,Slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/212,Himachal Pradesh,Kangra,43P16,,Badukhar,32.05376,75.82498,40.00,35.00,30.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,SO- NS/15->West,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting and Weathered rock on Steep slope,Retaining wall of suitable size,Proper toe support as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/167,Himachal Pradesh,Kangra,43P15,,Baduni,32.39144,75.93872,25.00,20.00,20.00,,0-0.5m,III,,3.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting and Weathered rock on Steep slope,Retaining wall of suitable size,Proper toe support as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/186,Himachal Pradesh,Kangra,44M13,,Ban Bilwan,31.95110,75.93519,26.00,23.00,20.00,,0-0.5m,III,,10.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Densely vegetated,Damp,Rainfall,Nill,,,,,,Incessant rainfall,Slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/91,Himachal Pradesh,Chamba,43P15,,Barrian nala,32.42728,75.96092,52.00,25.00,40.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,Part of road blocked,,,"Road cutting,Incessant rainfall ","Benching of slope, Retaining wall of suitable size and dimension",Culvert recommended,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/172,Himachal Pradesh,Kangra,43P16,,Diothi,32.06008,75.82652,27.00,22.00,20.00,,0-1m,III,,1.00,Rock and Debris,Slide,Rapid,Active,Advancing,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone and sandstone,,Sparsely vegetated,Damp,Road Cutting,Nill,,,,,,Road cutting and Weathered rock gets saturated,Easing of slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/180,Himachal Pradesh,Kangra,43P16,,Bhatili,32.14354,75.87785,8.00,9.00,7.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,conglomerate with mudstone,,Densely vegetated,Damp,Road Cutting,Nill,,,,,,"loose material on the slope
+Road cutting","Removal of loose material from slope,Proper toe support",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/187,Himachal Pradesh,Kangra,44M13,,Near Gatti bala baba temple,31.95275,75.94118,13.00,12.00,1.00,,2-3m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Dry,Road Cutting,Nill,,,,,,Toe cutting by nala,Proper toe support,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/188,Himachal Pradesh,Kangra,44M13,,Near Gatti bala baba temple,31.95278,75.94135,9.00,10.00,2.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2000.00,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Road Cutting,Nill,,,,,,Toe cutting by nala,Proper toe support,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/189,Himachal Pradesh,Kangra,44M13,,Ghatti village,31.95454,75.94198,10.00,11.00,8.00,,0-1m,III,,8.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Wet,Rainfall,Nill,,,,,,Toe cutting by nala and steep slope,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/151,Himachal Pradesh,Chamba,43P15,Ghatasani pul,Ghatasani pul,32.41581,75.96955,80.00,55.00,60.00,,>5m,III,,150.00,Debris,Slide,Rapid,Active,Advancing,Single,shallow,Deep rotational failure,2010.00,,,,Moderately Dissected,conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Road widening, Incessant rainfall",slope easing and culvert is required,Proper toe support,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/142,Himachal Pradesh,Chamba,43P15,Berian,Berian,32.42641,75.97222,48.00,40.00,35.00,,2-3m,III,,100.00,Rock,Slide,Rapid,Reactivated,Enlarging,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Conglomerate and Mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Loose boulder conglomerate over saturated on steep slope,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/152,Himachal Pradesh,Chamba,43P15,Ghatasani pul,Ghatasani pul,32.41478,75.97079,24.00,20.00,20.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Reactivated,Widening,Single,shallow,Shallow planar failure,2010.00,,,,Lowly Dissected,conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Incessant rainfall.Slope cutting for road widening,slope easing and culvert is required,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52/03/2019/09,Himachal Pradesh,Kangra,52D03,Niangal,Niangal Village,32.25697,76.07529,60.00,25.00,50.00,,2-3m,III,,120.00,Rock cum debris,Slide,Moderate,Active,Enlarging,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Sandstone and Mudstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,Forest land damaged,Differential weathering of sandstone and mudstone,Removal of damaged trees. Benching of slope. Plantation,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/03/2019/08,Himachal Pradesh,Kangra,52D03,Niangal,Niangal Village,32.25478,76.08426,200.00,300.00,150.00,,>5m,II,,200.00,Debris,Slide,Moderate,Reactivated,Widening,Multiple,Deep seated,Deep rotational failure,2010.00,,,,Moderately Dissected,Sandstone and Mudstone,,Sparsely vegetated,Wet,Rainfall,Nill,,,,Three houses buried under slide material,,"Debris over saturation  on slope , Lack of proper drainage in the hill slope for water discharge","Removal of precarious boulders, lining of nana, unblocking of underlying drainage in the hill slope, filling of cracks by impervious material
+Detailed study required
+",Detailed study required,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/21,Himachal Pradesh,Chamba,52D03,Chyur,Godra-Siyun link road,32.30722,76.05389,29.00,14.00,20.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Conglomerate with red colored mudstone,,Moderately vegetated,Damp,Sudden Toe Removal,Nill,,,,,,Toe cutting by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/44,Himachal Pradesh,Chamba,52D03,Adhawar,Adhawar village,32.30444,76.06528,30.00,35.00,25.00,,2-3m,III,,60.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Highly Dissected,Sandsone with mudstone,,Sparsely vegetated,Damp,Rainfall,Nill,,,,,Cultivated land abover crown portionaffected,"Weathered rock exposed on steep slope, toe erosion by nala",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/3/2019/41,Himachal Pradesh,Kangra,52D03,Mundi,Mundi village,32.36833,76.01417,42.00,30.00,30.00,,>5m,III,,100.00,Debris,Slide,Rapid,Active,Enlarging,Multiple,shallow,Deep planer failure,2000.00,,,,Highly Dissected,Sandstone and mudstone ,,Sparsely vegetated,Damp,Rainfall,Nill,,,,Houses on crown portion in danger,Cultivated land abover crown portionaffected,Toe cutting by nala,Mitigation of erosion by nala,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/50,Himachal Pradesh,Chamba,52D03,Khariri,Shahpur-Drini link road,32.26117,76.19736,12.00,8.00,10.00,,0-1m,III,,3.00,Debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected, calcareous Conglomerate,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting,Removal of loose boulders,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/51,Himachal Pradesh,Chamba,52D03,Khariri,Shahpur-Drini link road,32.26137,76.19727,12.00,8.00,10.00,,0-1m,III,,6.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected, calcareous Conglomerate,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,Road cutting,Removal of loose boulders,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D3/2019/55,Himachal Pradesh,Chamba,52D03,Darini,Darini,32.27353,76.20842,50.00,30.00,45.00,,3-5m,II,,100.00,Debris,Slide,Slow,Reactivated,Retrogressive,Multiple,shallow,Shallow planar failure,,,,,Lowly Dissected,Mudstone with conglomerate,,Agriculture,Damp,Rainfall,Nill,,,,,Cultivated land near crown portion affected,"Toe erosion by nala
+Cultivation on slope","Proper nala lining, Benching,deep root plantation",Houses near crown portion under danger,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/57,Himachal Pradesh,Chamba,52D03,Narwar,Dhuli-Narwar link road,32.26639,76.23833,50.00,30.00,45.00,,0-1m,III,,12.00,debris,Slide,Rapid,Reactivated,Advancing,Single,shallow,Shallow planar failure,2019.00,,,,Lowly Dissected,Sandstone with mudstone,,Agriculture,Wet,Rainfall,,,,,,Agriculture land,"Road cutting
+Seepage from cultivated land along mudstone and sandstone",Retaining wall with weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/03/2019/38,Himachal Pradesh,Chamba,52D03,Gumu ,Godra-Siun link road,32.36954,76.03028,60.00,25.00,50.00,,0-1m,III,,150.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,basalt,,Sparsely vegetated,Dry,Rainfall,,,,,,,"Loose debris on steep slope
+Incessant rain fall",Removal of loose mass from  the slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D3/2019/61,Himachal Pradesh,Kangra,52D03,Darini,,32.27917,76.20278,50.00,30.00,45.00,,0-1m,III,,40.00,Debris,Slide,Very Rapid,Reactivated,Widening,Single,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Mudstone with sandstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,Weathered rock exposed on steep slope,removal of loose material and plantation,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/247,Himachal Pradesh,Chamba,52D03,Rihal ban Jangal,Rihal ban Jangal,32.28284,76.14936,118.00,57.00,100.00,,2-3m,III,,40.00,Rock and Debris,Slide,Rapid,Reactivated,Enlarging,Multiple,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Mudstone with sandstone,,Moderately vegetated,Damp,Sudden Toe Removal,,,,Nearby road affected at crown,,Small Agriculture land at crown ,Toe cutting by nala,"toe support ,terracing of slope and water management.",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/18,Himachal Pradesh,Chamba,52D03,Chyur ,Daintha-Chyur link road,32.30576,76.05438,40.00,30.00,35.00,,0-1m,III,,70.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Conglomerate along with band of mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe cutting by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/17,Himachal Pradesh,Chamba,52D03,Chyur ,Daintha-Chyur link road,32.30613,76.05473,120.00,100.00,110.00,,0-1m,III,,35.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Conglomerate along with mudstone,,Moderately vegetated,Damp,"Sudden Toe Removal,step slope",,,,,,,Toe cutting by by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/16,Himachal Pradesh,Chamba,52D03,Chyur ,Daintha-Chyur link road,32.30922,76.05513,30.00,20.00,25.00,,2-3m,III,,70.00,Debris and Rock,Slide,Rapid,Reactivated,Widening,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe cutting by River,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/15,Himachal Pradesh,Chamba,52D03,Daintha ,Daintha-Chyur link road,32.30951,76.05410,25.00,20.00,22.00,,0-1m,III,,20.00,Rock cum debris,Slide,Slow,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,"Loose debris on steep slope
+Incessant rain fall",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/14,Himachal Pradesh,Chamba,52D03,Khilan village,SH-28,32.28906,76.12674,20.00,12.00,18.00,,0-1m,III,,7.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Lowly Dissected,Calcareous conglomerate with buff coloredmudston,,Sparsely vegetated,Damp,Rainfall,,,,,,,Widening of road,"slope easing, retaing wall",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/13,Himachal Pradesh,Chamba,52D03,,SH-28,32.28331,76.13310,25.00,10.00,22.00,,0-1m,III,,10.00,Debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,2016.00,,,,Moderately Dissected,Pebbly conglomerate,,Moderately vegetated,Damp,Rainfall,,,,,,,"Widening of road
+Incessant rainfall",slope easing,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/64,Himachal Pradesh,Chamba,52D03,Kanol,,32.28731,76.22808,60.00,45.00,55.00,,0-1m,III,,30.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2005.00,,,,Lowly Dissected,Mudstone,,Sparsely vegetated,Wet,Sudden Toe Removal,,,,,,,Toe erosion by Khuli khad,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/12,Himachal Pradesh,Chamba,52D03,Ladhar ghar,SH-28,32.28316,76.13388,35.00,20.00,32.00,,0-1m,III,,8.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Highly Dissected,Pebbly conglomerate with sandstone,,Moderately vegetated,Damp,Rainfall,,,,Part of road blocked,,,Slope cut for road widening,Retaining wall with weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/11,Himachal Pradesh,Chamba,52D03,Bhangian,SH-28,32.25577,76.13451,20.00,25.00,15.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Conglomerate,,Moderately vegetated,Damp,Rainfall,,,,,,,Slope modified for road widening,Retaining wall with weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/10,Himachal Pradesh,Chamba,52D03,Bhangian,SH-28,32.25722,76.13583,15.00,25.00,13.00,,0-1m,III,,50.00,Debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Pebbly conglomerate with sandstone lenses,,Moderately vegetated,Damp,Rainfall,,,,,,,Incessant rainfall,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/29,Himachal Pradesh,Chamba,52D03,Bhajan village,Tundi-Bhajan link road,32.31908,76.04902,15.00,15.00,12.00,,0-1m,III,,12.00,Debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,Loose cobbly conglomerate with few lenses of mudst,,Sparsely vegetated,Damp,Rainfall,,,,Part of road blocked,,, incessant rainfall ,Retaining wall with weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/30,Himachal Pradesh,Chamba,52D03,Kut village,,32.31494,76.04750,70.00,80.00,60.00,,0-1m,III,,40.00,Debris,Slide,Rapid,Active,Widening,Multiple,shallow,Shallow planar failure,2017.00,,,,Highly Dissected,Conglomerate and mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,"Toe erosion  by nala
+Weathered rock and loose boulder exposed","Trimming of slope, Deep root plantation",Aggricultural land on crown portion will be affected,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/03/2019/20,Himachal Pradesh,Chamba,52D03,Chyur Village,,32.30639,76.05361,20.00,15.00,15.00,,0-1m,III,,25.00,Debris,Slide,Moderate,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Highly Dissected,Conglomerate with bands of mudstone & sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe cutting by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/19,Himachal Pradesh,Chamba,52D03,Chyur village,,32.30750,76.05556,15.00,20.00,12.00,,0-1m,III,,10.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Highly Dissected,Conglomerate along with mudstone,,Moderately vegetated,Wet,Rainfall,,,,,,,Toe cutting by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/01,Himachal Pradesh,Kangra,44M13,Near Pong Dam,SH-27,31.96069,75.94500,25.00,20.00,22.00,,0-1m,III,,15.00,Rock and Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Sandstone intercalated with mudstone,SO- 140/30->50,Moderately vegetated,Damp,Rainfall,,,,Part of road damaged,,,"
+Unplanned slope cutting for road construction
+Incessant rainfall",Retaining wall as per site condition,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/06,Himachal Pradesh,Kangra,43P15,Danni,Khadater Village,32.36785,75.95116,150.00,300.00,120.00,,>5m,II,,200.00,Debris,Slide,Moderate,Active,Retrogressive,Successive,Deep seated,Deep rotational failure,1987.00,,,2019.00,Moderately Dissected,Sandstone Intercalated Mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,Loss of Agricultural land,"1.Incessant Rainfall
+2. Damped Colluvial material on slope got oversaturated during incessant rainfall","Removal of debris on the slope, benching of slope, Plantation",Retaining wall as per site condition,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/03,Himachal Pradesh,Kangra,43P15,Near  Phina Singh Dam,SH-28,32.40112,75.98517,30.00,30.00,28.00,,0-1m,II,,15.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,2019.00,,,Moderately Dissected,Calcareous Conglomerate with lenses of Sandstone ,,Moderately vegetated,Dripping,Rainfall,,,,Disrupted,Part of Road  washed away,,"1. Toe cutting of retaining wall during heavy rainfall
+2. Improper drainage 
+3.Incessant Rainfall",drainage management followed by retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/04,Himachal Pradesh,Chamba,43P15,Near Phina Singh Canal,,32.40831,75.98562,30.00,20.00,25.00,,0-1m,III,,30.00,Rock,Falls, Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Calcareous Conglomerate with lenses of Sandstone ,,Sparsely vegetated,Damp,Rainfall,,,,Part of canal road blocked,,,"1. Wedge Failure
+2. Anthropogenic activities: Unplanned cutting of slope for construction of road.
+3.Incessant Rainfall",Removal of boulders from slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/05,Himachal Pradesh,Chamba,43P15,Kalidhar ,Lahru-Chowari link road,32.41289,75.98564,100.00,180.00,85.00,,>5m,II,,200.00,Debris,Slide,Moderate,Reactivated,Widening,Multiple,Deep seated,Deep planer failure,2000.00,,,,Moderately Dissected,Basalt,,Sparsely vegetated,Damp,Rainfall,,,,Part of road damaged,,,"1. Loose debris on slope
+2. Anthropogenic activities: Unplanned cutting of slope for construction of road. 3. Sheared rock mass
+3.Incessant Rainfall
+4. Toe erosion by Chakki River
+","removal of loose material, plantation, water and retaining wall on road level with sufficien inclined weep holes","Gabian wall at toe portion, benching of slope",,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/31,Himachal Pradesh,Chamba,52D03,Kut village,,32.31667,76.04917,80.00,45.00,70.00,,0-1m,III,,100.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Conglomerate with mudstone and sandstone,,Sparsely vegetated,Damp,Rainfall,,,,,,Cultivated land damaged,"Toe erosion by nala
+Incessant rainfall",Easing of slope,Few houses at crown portion will affected,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/32,Himachal Pradesh,Chamba,52D03,Chyur,,32.30893,76.06013,35.00,25.00,30.00,,0-1m,III,,70.00,Debris,Slide,Rapid,Active,Widening,Multiple,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,"Toe erosin by nalla
+weak lithology
+Incessant rainfall",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/33,Himachal Pradesh,Chamba,52D03,Chyur,,32.30966,76.05993,60.00,65.00,55.00,,0-1m,III,,50.00,Debris,Slide,Moderate,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Sudden Toe Removal,,,,,,,"Toe erosion by nalla
+weathered rock material on Steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/07,Himachal Pradesh,Chamba,43P15,Barrian nala,SH-28,32.42776,75.95945,20.00,25.00,18.00,,2-3m,III,,25.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2000.00,,,,Moderately Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,Part of road damaged,,,"1. Anthropogenic activities: Unplanned cutting of slope for construction of road.
+2 .Incessant Rainfall","removal of loose material, plantation, water and slope management",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+  HP/CHA/52D/03/2019/28,Himachal Pradesh,Chamba,52D03, Bharari village,Tundi-Bharari link road,32.32250,76.05456,15.00,10.00,12.00,,0-1m,III,,30.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,Conglomerate with sandstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,Weather rock exposedon steep slope,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+  HP/CHA/43P/15/2019/88,Himachal Pradesh,Chamba,43P15,Taragarh,Lahru-Taragarh road,32.42944,75.95611,60.00,30.00,50.00,,0-1m,III,,170.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Weather rock exposedon steep slope and toe erosion by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/40,Himachal Pradesh,Chamba,52D03,Gumu ,Godra-Siun link road,32.36978,76.03356,10.00,12.00,8.00,,0-1m,III,,15.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,basalt,,Sparsely vegetated,Dry,Rainfall,,,,,,,"Loose debris on steep slope
+Incessant rain fall",Removal of loose mass from  the slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/35,Himachal Pradesh,Chamba,52D03,Guma Siyun,Godra-Siun link road,32.37222,76.03583,20.00,30.00,18.00,,0-1m,III,,200.00,Debris,Slide,Rapid,Reactivated,Enlarging,Multiple,shallow,Shallow planar failure,2005.00,2006.00,2010.00,2019.00,Lowly Dissected,Phyllite,,Sparsely vegetated,Damp,Rainfall,,,,,5 houses swept away,,"New link road construction by cutting of steep slope
+Incessant rainfall","Benching of slope,Removal of loose materials from affacted slope.Vacant nearby houses",Proper toe support ,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/36,Himachal Pradesh,Chamba,52D03,Gumu ,Godra-Siun link road,32.36598,76.03209,20.00,12.00,18.00,,0-1m,III,,25.00,Debris,Slide,Very Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,2005.00,,,,Highly Dissected,basalt,,Moderately vegetated,Damp,Rainfall,,,,,,,"Loose debris on steep slope
+Incessant rain fall",Removal of loose mass from  the slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/24,Himachal Pradesh,Chamba,52D03,Near Chyur,Daintha-Chayur link road,32.29624,76.05821,20.00,15.00,15.00,,0-1m,III,,12.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Lowly Dissected,Conglomerate with intercalated mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Due to road widening,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/22,Himachal Pradesh,Chamba,52D03,Near Chyur,Daintha-Chayur link road,32.30606,76.06207,10.00,10.00,8.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Conglomerate with mudstone bed,,Moderately vegetated,Damp,Rainfall,,,,,,,Due to road widening,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/23,Himachal Pradesh,Chamba,52D03,Near Chyur,Daintha-Chayur link road,32.30292,76.05871,25.00,15.00,22.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,Conglomerate with mudstone and sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Slope cut for road construction,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/3/2019/25,Himachal Pradesh,Chamba,52D03,,,32.29722,76.05722,50.00,25.00,45.00,,0-1m,III,,50.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Hard  compact conglomerate with sandstone and muds,,Moderately vegetated,Damp,Rainfall,,,,,,,"Loose debris on steep slope
+Incessant rain fall",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/26,Himachal Pradesh,Chamba,52D03,Sihunta,SH-28,32.30915,76.08287,20.00,15.00,18.00,,1-2m,III,,10.00,Debris,Slide,Moderate,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,2014.00,,,,Piedmont slope,Mudstone and terrace loose boulder,,Agriculture,Wet,Rainfall,,,,,,,Slope cut for road construction,Retaining wall of suitable size,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/27,Himachal Pradesh,Chamba,52D03,Samot,,32.33325,76.07903,50.00,15.00,45.00,,0-1m,III,,80.00,Debris,Slide,Rapid,Active,Active,Single,shallow,Shallow planar failure,2017.00,,,,Lowly Dissected,"Conglomerate, sandstone and mudstone intercalated",,Sparsely vegetated,Damp,Sudden Toe Removal,,,,Road damaged,,,Toe cutting by river,Proper Toe support,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/44,Himachal Pradesh,Chamba,52D03,Adhwar,,32.30056,76.06639,70.00,80.00,65.00,,1-2m,III,,80.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Multiple,shallow,Shallow planar failure,2018.00,,,,Lowly Dissected,Mudstone and Sandsone,,Sparsely vegetated,Damp,Rainfall,,,,,,,Weathered rock exposed on steep slope,Removal of loose material from slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/49,Himachal Pradesh,Chamba,52D03,Khariri,,32.25799,76.20044,12.00,6.00,10.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Enlarging,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,Conglomerate and mudstone intercalated,,Moderately vegetated,,Rainfall,,,,,,,Slope cut for road construction,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/52,Himachal Pradesh,Chamba,52D03,Darini,,32.26506,76.19139,50.00,15.00,45.00,,0-1m,III,,50.00,Rock cum debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Pebbly conglomerate,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe erosion bynala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/53,Himachal Pradesh,Chamba,52D03,Darini,,32.26299,76.19026,10.00,10.00,8.00,,0-1m,III,,10.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,2011.00,,,,Moderately Dissected,Conglomerate with red colored mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,Steep slope,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/54,Himachal Pradesh,Chamba,52D03,Darini,Shahpur-Darini link road,32.27176,76.20273,20.00,18.00,15.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,Conglomerate,,Moderately vegetated,Damp,Rainfall,,,,,,,Road widening,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/56,Himachal Pradesh,Chamba,52D03,Bhaled,,32.27028,76.21028,100.00,40.00,90.00,,1-2m,III,,120.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,2012.00,,,,Lowly Dissected,Mudstone and sandstone,,Sparsely vegetated,Damp,Rainfall,,,,,Two houses damaged,Cultivated land damaged,"Toe erosion by nala
+Excess Rainfall",Drainage allignment and benching of slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/42,Himachal Pradesh,Chamba,52D03,Godra,,32.36333,76.02194,60.00,50.00,55.00,,0-1m,III,,60.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2012.00,,,,Highly Dissected,Sandstone and mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,"weathered rock exposed on Steep slope
+Toe cutting by nala",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/43,Himachal Pradesh,Chamba,52D03,Adhwar,,32.30389,76.06611,45.00,30.00,40.00,,0-1m,III,,60.00,Rock and Debris,Slide,Rapid,Reactivated,Retrogressive,Multiple,shallow,Shallow planar failure,,,,,Highly Dissected,Conglomerate with mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,"Toe cutting by nala
+Weathered rock exposed on ste[pp slope",,Retaining wall,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/425,Himachal Pradesh,Chamba,43P15,Jatroon,Lahru-Chowari road,32.42196,75.99614,20.00,10.00,18.00,,0-1m,III,,6.00,Debris,Slide,Rapid,Active,Enlarging,,shallow,Shallow planar failure,2018.00,,,,Highly Dissected,Gneiss,,Sparsely vegetated,Dry,Rainfall,,,,,,,Road cutting,Retaining wall,Retaining wall,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/46,Himachal Pradesh,Chamba,52D03,Kunjar Mahadev,Patka-Kunjar-Mahadev link road,32.33539,76.02985,15.00,10.00,12.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Reactivated,Widening,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,Conglomerate,,Sparsely vegetated,Damp,Rainfall,,,,,,,Road widening,Retaining wall with holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/47,Himachal Pradesh,Chamba,52D03,Kunjar Mahadev,Patka-Kunjar-Mahadev link road,32.33648,76.03014,15.00,15.00,13.00,,0-1m,III,,5.00,Rock and Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Lowly Dissected,Conglomerate ,,Sparsely vegetated,Dry,Rainfall,,,,,,,Road widening,Retaining wall with holes,Slope trimming and retaining wall,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/48,Himachal Pradesh,Chamba,52D03,Khariri,Shahpur-darini road,32.25833,76.20031,20.00,12.00,18.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,Pebbly conglomerate,,Moderately vegetated,Damp,Rainfall,,,,,,,"Widening of road
+Gully erosion",Retaining wall,Removal of debris material from the slope,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/03/2019/60,Himachal Pradesh,Kangra,52D03,Darini,,32.28028,76.20306,40.00,25.00,35.00,,0-1m,III,,20.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Multiple,shallow,Shallow planar failure,,,,,Lowly Dissected,Red colored mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,"
+Weathered rock exposed on steep slope",Removal of loose debris on the slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/03/2019/37,Himachal Pradesh,Chamba,52D03,Gumu ,Godra-Siun link road,32.36954,76.03028,60.00,25.00,50.00,,0-1m,III,,150.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,basalt,,Sparsely vegetated,Dry,Rainfall,,,,,,,"Loose debris on steep slope
+Incessant rain fall",Removal of loose mass from  the slope,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/85,Himachal Pradesh,Chamba,43P15,Kakira taxi stand,SH-28,32.45869,75.93198,5.00,10.00,4.00,,0-0.5m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Lowly Dissected,Sandsotne/mudstone,,Settlement,Damp,Rainfall,,,,,one house affected,,Road widening ,"Gabian given & damaged, Repair of gabian wall required",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/191,Himachal Pradesh,Kangra,43P15,near Uprali Haral village,Aundi-Chakki link road,32.36713,75.84715,12.00,20.00,11.00,,0-0.5m,III,,6.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2012.00,,,,Moderately Dissected,Flaggy sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting,Gabian wall required,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/86,Himachal Pradesh,Chamba,43P15,Bindgi,SH-28,32.44401,75.94155,20.00,18.00,18.00,,0-0.5m,III,,4.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Conglomerate with red colored muddy maxtrix,,Sparsely vegetated,Damp,Rainfall,,,,Part of road damaged,,,Road widening,Retaining wall at different levels,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/192,Himachal Pradesh,Kangra,43P15,near Uprali Haral village,Aundi-Chakki link road,32.36744,75.84706,20.00,15.00,18.00,,0-1m,III,,5.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2012.00,,,,Moderately Dissected,flaggy sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,road widening,Retaining wall ,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/87,Himachal Pradesh,Chamba,43P15,,SH-28,32.43684,75.95029,15.00,25.00,12.00,,0-0.5m,III,,8.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Conglomerate with mudstone,,Sparsely vegetated,Damp,Rainfall,,,,Road blocked partially,,,Widening of road,Retaining wall ,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/193,Himachal Pradesh,Kangra,43P15,near Uprali Haral village,Aundi-Chakki link road,32.36850,75.84812,18.00,15.00,15.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road widening and rainfall,Retaining wall at different levels,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/97,Himachal Pradesh,Chamba,52D03,Patka,SH-28,32.36533,76.01628,100.00,200.00,90.00,,0-1m,III,,150.00,Debris,Slide,Rapid,Reactivated,Enlarging,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Red colored mudstone,,Moderately vegetated,Damp,Sudden Toe Removal and rainfall,,,,,,Cultivated land damaged,"Toe cutting by nala
+sheared rock mass ",Development of proper drainage and plantation,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/89,Himachal Pradesh,Chamba,43P15,Barian,SH-28,32.43182,75.95835,35.00,40.00,30.00,,0-0.5m,III,,150.00,Debris,Slide,Moderate,Reactivated,Enlarging,Multiple,shallow,Shallow planar failure,2012.00,,,,Moderately Dissected,Mudstone with shale,,Moderately vegetated,Wet,Rainfall,,,,Road damaged,,,"Road widening
+Incessant rainfall",Retaining wall at different levels,"Gabian given & damaged, Repair of gabian wall required",,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/194,Himachal Pradesh,Kangra,43P15,near Uprali Haral village,Aundi-Chakki link road,32.36869,75.84897,20.00,15.00,18.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,rain fall and road widening,Gabian wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/90,Himachal Pradesh,Chamba,43P15,Barian,SH-28,32.42956,75.95951,70.00,32.00,60.00,,>5m,III,,70.00,Debris,Slide,Moderate,Active,Widening,Single,Deep seated,Deep rotational  failure,,,,,Highly Dissected,Mudstone/sandstone,,Moderately vegetated,Wet,Rainfall,,,,Road damaged,,,"Incessant rainfall,week roack mass
+Unscientific Road widening ","Removal of weathered material , drainage management and gabian wall",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/195,Himachal Pradesh,Kangra,43P15,Nera,Suliali-Dunera link road,32.39099,75.88857,10.00,10.00,8.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Terrace,Alluvium,,Moderately vegetated,Damp,Rainfall,,,,,,,road cutting,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/92,Himachal Pradesh,Chamba,52D03,Binna village,,32.35744,76.02563,70.00,50.00,65.00,,0-1m,III,,40.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Slate/Phyllite,,Sparsely vegetated,Damp,Sudden Toe Removal,,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/117,Himachal Pradesh,Chamba,43P15,Jatroon,Lahru-Chowari road,32.41837,75.99575,25.00,25.00,24.00,,0-1m,III,,4.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Dry,rainfall,,,,,,,Road cutting,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52D/03/2019/65,Himachal Pradesh,Kangra,52D03,Lahri village,,32.28541,76.22138,130.00,60.00,120.00,,0-1m,III,,70.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Red mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe erosion by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/102,Himachal Pradesh,Chamba,52D03,Flarh,SH-28,32.38373,76.00221,80.00,70.00,75.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Confined,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Conglomerate,,Sparsely vegetated,Damp,Rainfall,,,,,,,Loose debris saturation by rainfall,drainanage management,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/73,Himachal Pradesh,Chamba,52D03,Rehal Ban Jangal,,32.28259,76.14103,500.00,250.00,450.00,,0-0.5m,III,,250.00,Rock cum debris,Slide,Rapid,Active,Retrogressive,Multiple,Deep seated,Deep rotational failure,,,,,Lowly Dissected,Sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe erosion by deep nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/181,Himachal Pradesh,Kangra,43P16,Patti,Sanjwan-Dini link road,32.11186,75.80018,7.00,5.00,6.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/149,Himachal Pradesh,Chamba,43P15,Barian bridge,SH-28,32.41929,75.97028,130.00,180.00,125.00,,0-1m,III,,120.00,Rock cum debris,Slide,Rapid,Active,Widening,multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Mudstone with sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,weathered rock on steep slope,Benching of slope and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/177,Himachal Pradesh,Chamba,43P15,Barian bridge,SH-28,32.42130,75.95930,80.00,50.00,75.00,,0-0.5m,III,,100.00,Debris,Slide,Rapid,Active,Retrogressive,multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Mudstone and Conglomerate,,Sparsely vegetated,Damp,Rainfall,,,,,,,"Excess rainfall
+Loose material on Steep slope",Benching of slope and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/183,Himachal Pradesh,Kangra,44M13,Ban Bilwan,SH-27,31.94820,75.93217,30.00,25.00,28.00,,0-1m,III,,10.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with varigated mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,"Sheared rock mass, steep slope, rain fall and road cutting",Removal of weathered rock mass and plantation,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/104,Himachal Pradesh,Chamba,52D03,Along Chakki river,,32.39082,76.00335,50.00,70.00,45.00,,0-0.5m,III,,60.00,Debris,Slide,Rapid,Active,Enlarging,Multiple,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Sudden Toe Removal,,,,,,,Toe erosion by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/44M/13/2019/185,Himachal Pradesh,Kangra,44M13,Ban Bilwan,SH-27,31.95052,75.93419,30.00,25.00,29.00,,0-1m,III,,20.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,"Sheared rock mass, steep slope, rain fall and road cutting",Removal of weathered rock mass and plantation,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/74,Himachal Pradesh,Chamba,52D03,Bhiora saini,,32.27988,76.15250,100.00,80.00,90.00,,0-1m,III,,150.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,,,,,Lowly Dissected,sandstone with mudstone,,Moderately vegetated,Damp,Sudden Toe Removal,,,,,,,Toe cutting by nala,Toe support,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52/D/03/2019/78,Himachal Pradesh,Chamba,52D03,Nahna village,Boh-Dhulara road,32.30018,76 76.147414,10.00,15.00,8.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Phyllite,,Sparsely vegetated,Damp,Rainfall,,,,,,,Road cutting,Removal of loose material and gabian wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/116,Himachal Pradesh,Chamba,43P15,Jatroon,Lahru-Chowari road,32.42082,75.99604,18.00,20.00,15.00,,0-1m,III,,2.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,,,,,,,Loose debris saturation by rainfall,Removal of debris material and retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/141,Himachal Pradesh,Chamba,43P15,Barian,SH-28,32.42356,75.95792,35.00,30.00,32.00,,0-1m,III,,30.00,Debris,Slide,Rapid,Active,Widening,Multiple,shallow,Shallow planar failure,,,,,Lowly Dissected,Siltstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Sheared rock mass and rainfall,Benching of slope and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/52/D/03/2019/64,Himachal Pradesh,Kangra,52D03,Kanol village,,32.28731,76.22815,60.00,40.00,55.00,,0-1m,III,,30.00,Debris,Slide,Rapid,Active,Widening,Single,shallow,Shallow planar failure,,,,,Lowly Dissected,Mudstone,,Sparsely vegetated,Damp,Rainfall,,,,,,,Toe cutting by nala,Toe support,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/118,Himachal Pradesh,Chamba,43P15,Kalidhar ,Lahru-Chowari road,32.41643,75.99233,16.00,15.00,15.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected, phyllitic quartzite,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting ,Retaining wall with weep holes,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/136,Himachal Pradesh,Chamba,43P15,Hathola,,32.42822,75.97025,150.00,50.00,145.00,,0-1m,III,,100.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe cutting by nala,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/137,Himachal Pradesh,Chamba,43P15,Barian,SH-28,32.42709,75.95755,70.00,40.00,65.00,,0-1m,III,,10.00,Debris,Slide,Rapid,Reactivated,Retrogressive,Single,shallow,Shallow planar failure,,,,,Moderately Dissected,Mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting and rainfall,Benching of slope and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/16/2019/178,Himachal Pradesh,Kangra,43P16,Peh,Diothi-Badal road,32.04294,75.84516,12.00,10.00,10.00,,0-0.5m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2010.00,,,,Moderately Dissected,sandstone with mudstone intercalation,,Moderately vegetated,Damp,Rainfall,,,,,,,Road widening,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/KAN/43P/15/2019/190,Himachal Pradesh,Kangra,43P15,Haral uprali,Chakki-Aundi link road,32.36680,75.84722,10.00,8.00,9.00,,0-1m,III,,5.00,Rock and Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2015.00,,,,Moderately Dissected,red mudstone with hard compact sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,road cutting and weathered mudstone,Retaining wall and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/52D/03/2019/96,Himachal Pradesh,Chamba,52D03,Godra village,,32.37102,76.02331,60.00,35.00,50.00,,0-1m,III,,150.00,Debris,Slide,Rapid,Active,Retrogressive,Multiple,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,Phyllite,,Moderately vegetated,Damp,Sudden Toe Removal,,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/108,Himachal Pradesh,Chamba,43P15,Sahla,SH-28,32.39138,75.99357,8.00,12.00,7.00,,0-1m,III,,15.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2017.00,,,,Moderately Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting,Retaining wall at different levels,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/109,Himachal Pradesh,Chamba,43P15,Along Chakki river,,32.39391,75.99446,15.00,10.00,12.00,,0-1m,II,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,Conglomerate with mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting,Retaining wall,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/134,Himachal Pradesh,Chamba,43P15,Barian,SH-28,32.42684,75.96331,15.00,10.00,14.00,,0-1m,III,,5.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,Siltstone,,Moderately vegetated,Damp,Rainfall,,,,,,,road cutting and weathered mudstone,Retaining wall and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/148,Himachal Pradesh,Chamba,43P15,Barian,,32.42356,75.96852,80.00,35.00,75.00,,0-1m,III,,50.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,Sandstone & Siltstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Toe cutting by river,,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/150,Himachal Pradesh,Chamba,43P15,Barian,SH-28,32.41967,75.96852,100.00,60.00,95.00,,0-1m,III,,35.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,alternate mudstone and sandstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Unscientific road cut without proper toe support ,Retaining wall and drainage allignment,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/83,Himachal Pradesh,Chamba,43P15,Kumlari,SH-28,32.46756,75.92064,5.00,4.00,4.00,,0-1m,III,,3.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,2018.00,,,,Moderately Dissected,Conglomerate and mudstone,,Moderately vegetated,Damp,Rainfall,,,,,,,Road cutting and loose debris on the slope," removal of loose debris, drainage allignment and retaining wall",,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/214,Himachal Pradesh,Chamba,52D03,Khariri,Khariri,32.25576,76.22256,40.00,20.00,30.00,,0-1m,III,,200.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly dissected,Sandstone & Siltstone,,Moderately vegetated,Damp,Rainfall,,,,,,,"Toe cutting by nala, Weathered rock on steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/215,Himachal Pradesh,Chamba,52D03,Khariri,Khariri,32.25683,76.21636,28.00,15.00,20.00,,0-1m,III,,70.00,Rock,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,,,,Lowly dissected,Sandstone & Siltstone,,Moderately vegetated,Damp,Rainfall,,,,,,,"Toe cutting by nala, Weathered rock on steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+HP/CHA/43P/15/2019/220,Himachal Pradesh,Kangra,43P15,Baduni,Baduni,32.38848,75.94833,150.00,70.00,120.00,,2-3m,II,,240.00,Debris,Slide,Rapid,Active,Retrogressive,Single,shallow,Shallow planar failure,,2018.00,,,Moderately Dissected,mudstone with sandstone,,Moderately vegetated,Damp,Rainfall,Nill,,,,,,"Toe cutting by nala, loose material on steep slope",,,,"Renuka and Qurban Ali Tariq, 2020. Macro-scale (1:50,000) National landslide susceptibility Mapping in parts 
+of toposheets no. 52D/3, 43P/11, 12 , 15,16 and 44M/13, parts of Kangra , Una and Chamba districts, 
+Himachal Pradesh. Unpub. GSI report of FS 2019-2020",,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
